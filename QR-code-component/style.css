@@ -1,0 +1,42 @@
+body {
+    width: 1440px;
+    height: 960px;
+    font-family: Outfit, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #D5E1EF;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card {
+    width: 320px;
+    height: 500px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.qr-img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.paragraph{
+    color: #68778D;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.2px;
+}
